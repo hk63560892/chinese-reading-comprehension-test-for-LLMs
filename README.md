@@ -103,4 +103,4 @@ python inference.py --model_dir <模型路徑> [--cuda_ids <CUDA設備ID>] [--en
 
 ## 引用
 
-如果您使用了本專案的相關資源，請參考引用以下技術報告：[技術報告](https://arxiv.org/abs/2304.08177)
+[paper](https://arxiv.org/abs/2304.08177)
