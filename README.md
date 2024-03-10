@@ -1,5 +1,5 @@
 ## 專案概覽
-我的code：（https://drive.google.com/drive/folders/1Tu9DLGUefoeaiS8vrMcnarfHIR8dj4-5?usp=drive_link）
+code：（https://drive.google.com/drive/folders/1Tu9DLGUefoeaiS8vrMcnarfHIR8dj4-5?usp=drive_link）
 本專案基於Alpaca-2系列的開源模型進行訓練。與[先前的版本](https://github.com/ymcui/Chinese-LLaMA-Alpaca)相比，本專案具有以下特點：
 
 #### 📖 優化的中文詞表
